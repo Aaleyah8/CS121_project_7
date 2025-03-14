@@ -4,8 +4,8 @@ print input to exit the game
 Input human guesser or computer guesser to pick which game to play
 
 ## Main()
-  scanner = new scanner(System.in)
-  Math.random(r
+  input the scanner
+  Math.random()
 
 ## human guesser
 have to enter 0-2:
